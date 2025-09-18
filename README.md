@@ -50,8 +50,8 @@
 
 
 
----
 
+---
 ## Open to Work
 
 ![Hire Me](https://img.shields.io/badge/Open%20To-Work-green?style=for-the-badge&logo=github)
