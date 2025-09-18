@@ -34,9 +34,5 @@
 ## ☕ Let’s Connect
 📬 Email: **reiki26072gmail.com**
 
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
-</p>
-
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=footer&text=Exploring%20the%20Future%20of%20Intelligence%20✨&fontSize=26&fontColor=ffffff)
 
