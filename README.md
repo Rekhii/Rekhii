@@ -28,7 +28,7 @@
 
 ## Repositories
 
-  <img align="right" alt="Coding 2" width="300"
+  <img align="middle" alt="Coding 2" width="300"
        src="https://i.gifer.com/E3K6.gif" />
 
 
