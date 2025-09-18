@@ -34,6 +34,11 @@
 
 [![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%F0%9F%A7%A0-darkorange?style=for-the-badge&logo=github)](https://github.com/Rekhii/Deep-Learning)  
  
+[![Fine-Tuning LLM](https://img.shields.io/badge/Fine--Tuning%20LLM-gray?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rekhii/Fine-Tuning-LLM)  
+
+[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-lightgray?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Rekhii/Machine-Learning)  
+
+[![Deep Learning](https://img.shields.io/badge/Deep%20Learning-darkgray?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rekhii/Deep-Learning)  
 
 ---
 
