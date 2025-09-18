@@ -29,27 +29,15 @@
 - 📈 [**Machine Learning**](https://github.com/Rekhii/Machine-Learning)  
 - 🧠 [**Deep Learning**](https://github.com/Rekhii/Deep-Learning)  
 
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rekhii&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rekhii&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Rekhii&theme=tokyonight&hide_border=true" height="150"/>
-</p>
 
 ---
 
 ## ☕ Let’s Connect
 📬 Email: **reiki26072gmail.com**
 
----
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
 </p>
 
-✨ *Learning every day, one notebook at a time.*  
+
