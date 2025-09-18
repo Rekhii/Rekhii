@@ -4,7 +4,9 @@
 
 # 👋 About Me  
 
-<img align="right" alt="Coding" width="400" src="https://www.datasciencecentral.com/wp-content/uploads/2021/10/giphy-4.gif" />
+<p align="left">
+  <img align="right" alt="Coding" width="400" 
+       src="https://www.datasciencecentral.com/wp-content/uploads/2021/10/giphy-4.gif" />
 
  - **CSE Student** |  Exploring **Machine Learning, Deep Learning & LLMs**  
  - I code & learn every single day, sharing progress here on GitHub  
