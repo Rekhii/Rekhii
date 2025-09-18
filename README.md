@@ -1,6 +1,6 @@
-# 🌿 Hey there, I’m Rekhi 👋  
+# 🌿 Hey there, I’m Rekhi 👋 
 
-Welcome to my corner of GitHub ✨  
+Welcome to my GitHub ✨  
 I’m a **CSE student** exploring the world of **Machine Learning, Deep Learning, and Fine-Tuning LLMs**.  
 Every day I code a little, learn a little, and share it here 🌱  
 
@@ -24,14 +24,6 @@ Every day I code a little, learn a little, and share it here 🌱
 - 📈 [**Machine Learning**](https://github.com/Rekhii/Machine-Learning)  
 - 🧠 [**Deep Learning**](https://github.com/Rekhii/Deep-Learning)  
 
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rekhii&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rekhii&layout=compact&theme=radical" height="150"/>
-</p>
----
 
 ## ☕ Let’s Connect
 📬 Email: **reiki2607gmail.com**  
