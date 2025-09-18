@@ -1,45 +1,34 @@
-# 👋 Hi, I’m Rekhi  
+# 🌿 Hey there, I’m Rekhi 👋  
 
-💻 **Computer Science & Engineering Student** | 📊 Passionate about Data, Machine Learning & Deep Learning | 🚀 Building projects every day to become a better engineer  
-
----
-
-## ✨ About Me
-- 📂 Running a **Data Every Day** series — practicing datasets, analysis & ML models daily.  
-- 🧠 Building a **Deep Learning Theory** repo — coding math & concepts into working implementations.  
-- 🔬 Exploring **LLM Fine-Tuning** on weekends.  
-- 🎯 Goal: Become a strong **Software & ML Engineer** ready for real-world challenges.  
+Welcome to my corner of GitHub ✨  
+I’m a **CSE student** exploring the world of **Machine Learning, Deep Learning, and Fine-Tuning LLMs**.  
+Every day I code a little, learn a little, and share it here 🌱  
 
 ---
 
-## 🛠️ Tech Stack
-**Languages & Frameworks:**  
+## 🌟 What I’m Working On
+- 📊 **Data Every Day** → daily practice with datasets, EDA & ML models  
+- 🧠 **Deep Learning** → turning theory into code step by step  
+- 🤖 **Fine-Tuning LLMs** → weekend experiments with BERT, GPT-style models  
+
+---
+
+## 🛠️ Tech I Use
 `Python` · `PyTorch` · `TensorFlow` · `scikit-learn` · `Transformers`  
-
-**Tools:**  
 `Google Colab` · `Kaggle` · `GitHub` · `WSL`  
 
 ---
 
 ## 📂 Featured Projects
-- 📊 [**Data Every Day**](https://github.com/your-username/Data-Every-Day) → Daily ML/DL dataset practice  
-- 🧠 [**Deep Learning Theory**](https://github.com/your-username/Deep-Learning-Theory) → Implementing DL concepts in code  
-- 🤖 [**Fine-Tuning LLMs**](https://github.com/your-username/Fine-Tuning-LLMs) → Weekend NLP experiments  
-
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=transparent" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=transparent" height="150"/>
-</p>
+- 📊 [**Fine-Tuning LLM**](https://github.com/Rekhii/Fine-Tuning-LLM)  
+- 📈 [**Machine Learning**](https://github.com/Rekhii/Machine-Learning)  
+- 🧠 [**Deep Learning**](https://github.com/Rekhii/Deep-Learning)  
 
 ---
 
 ## ☕ Let’s Connect
-- 💼 LinkedIn: [Your Name](https://linkedin.com/in/your-link)  
-- 📬 Email: **your-email@example.com**  
+📬 Email: **reiki26072gmail.com**  
 
 ---
 
-💡 *“Consistency beats intensity — progress every single day makes you an engineer tomorrow.”*  
+✨ *Learning every day, one notebook at a time.*  
