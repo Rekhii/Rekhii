@@ -1,20 +1,22 @@
-# 🌿 Hey there, I’m Rekhi 👋  
+# 👋 Hi, I’m Rekhi  
 
-Welcome to my corner of GitHub ✨  
-I’m a **CSE student** exploring the world of **Machine Learning, Deep Learning, and Fine-Tuning LLMs**.  
-Every day I code a little, learn a little, and share it here 🌱  
+💻 **Computer Science & Engineering Student** | 📊 Passionate about Data, Machine Learning & Deep Learning | 🚀 Building projects every day to become a better engineer  
 
 ---
 
-## 🌟 What I’m Working On
-- 📊 **Data Every Day** → daily practice with datasets, EDA & ML models  
-- 🧠 **Deep Learning** → turning theory into code step by step  
-- 🤖 **Fine-Tuning LLMs** → weekend experiments with BERT, GPT-style models  
+## ✨ About Me
+- 📂 Running a **Data Every Day** series — practicing datasets, analysis & ML models daily.  
+- 🧠 Building a **Deep Learning Theory** repo — coding math & concepts into working implementations.  
+- 🔬 Exploring **LLM Fine-Tuning** on weekends.  
+- 🎯 Goal: Become a strong **Software & ML Engineer** ready for real-world challenges.  
 
 ---
 
-## 🛠️ Tech I Use
+## 🛠️ Tech Stack
+**Languages & Frameworks:**  
 `Python` · `PyTorch` · `TensorFlow` · `scikit-learn` · `Transformers`  
+
+**Tools:**  
 `Google Colab` · `Kaggle` · `GitHub` · `WSL`  
 
 ---
@@ -27,8 +29,4 @@ Every day I code a little, learn a little, and share it here 🌱
 ---
 
 ## ☕ Let’s Connect
-📬 Email: **reiki26072gmail.com**  
-
----
-
-✨ *Learning every day, one notebook at a time.*  
+- 📬 Email: **reiki26072gmail.com**
