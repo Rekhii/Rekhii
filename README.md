@@ -26,26 +26,31 @@
 ## 📂 Featured Projects  
 ## 📂 Featured Projects  
 
-| Project | Description | Link |
-|---------|-------------|------|
-| 🤖 Fine-Tuning LLM | Weekend experiments with BERT, GPT-style, LoRA/QLoRA | [Repo](https://github.com/Rekhii/Fine-Tuning-LLM) |
-| 📊 Machine Learning | Classical ML models, EDA, and Kaggle projects | [Repo](https://github.com/Rekhii/Machine-Learning) |
-| 🧠 Deep Learning | Turning DL theory into practical code (backprop, CNNs, RNNs) | [Repo](https://github.com/Rekhii/Deep-Learning) |
 
 [![Fine-Tuning LLM](https://img.shields.io/badge/Fine--Tuning%20LLM-%F0%9F%A4%96-blueviolet?style=for-the-badge&logo=github)](https://github.com/Rekhii/Fine-Tuning-LLM)  
-> Weekend experiments with transformer models (BERT, GPT-style, QLoRA).  
+
 
 [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%F0%9F%93%88-228B22?style=for-the-badge&logo=github)](https://github.com/Rekhii/Machine-Learning)  
-> Classical ML algorithms, EDA, evaluation helpers, Kaggle-style projects.  
+
 
 [![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%F0%9F%A7%A0-darkorange?style=for-the-badge&logo=github)](https://github.com/Rekhii/Deep-Learning)  
-> From theory to code: backprop, CNNs, RNNs, and beyond.  
+ 
 
 ---
 
-## I am open to work, Let’s Connect
+---
 
-📬 Email:**reiki26072gmail.com**
+## Open to Work
+
+![Hire Me](https://img.shields.io/badge/Open%20To-Work-green?style=for-the-badge&logo=github)
+![Collaboration](https://img.shields.io/badge/Available-For%20Collaboration-blue?style=for-the-badge&logo=handshake)
+
+I can help with:  
+- 📊 Data preprocessing & ML model building  
+- 🧠 Deep learning experiments (CNNs, RNNs, Transformers)  
+- 🤖 LLM fine-tuning & NLP tasks  
+
+📬 Contact: **reiki26072gmail.com**
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=150&section=footer)
