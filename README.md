@@ -1,7 +1,5 @@
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:808080&height=150&section=footer&text=Learning%20Every%20Day&fontSize=28&fontColor=ffffff)
-<p align="center">
-  <img src="adebc9e7-4a9a-40eb-b220-9534db6287c8.png" alt="How ML goes over your data" width="600"/>
-</p>
+(img align="right" alt="Coding" width="400" src=["https://cdn.dribbble.com/users/116207...](https://www.datasciencecentral.com/wp-content/uploads/2021/10/giphy-4.gif)")
 # 👋 About Me  
  - **CSE Student** |  Exploring **Machine Learning, Deep Learning & LLMs**  
  - I code & learn every single day, sharing progress here on GitHub  
