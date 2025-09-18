@@ -23,18 +23,20 @@
 
 ---
 
-## Repos
-- [**Fine-Tuning LLM**](https://github.com/Rekhii/Fine-Tuning-LLM)  
-- [**Machine Learning**](https://github.com/Rekhii/Machine-Learning)  
-- [**Deep Learning**](https://github.com/Rekhii/Deep-Learning)  
+## 📂 Featured Projects  
 
+[![Fine-Tuning LLM](https://img.shields.io/badge/Fine--Tuning%20LLM-%F0%9F%A4%96-blueviolet?style=for-the-badge&logo=github)](https://github.com/Rekhii/Fine-Tuning-LLM)  
+> Weekend experiments with transformer models (BERT, GPT-style, QLoRA).  
+
+[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%F0%9F%93%88-228B22?style=for-the-badge&logo=github)](https://github.com/Rekhii/Machine-Learning)  
+> Classical ML algorithms, EDA, evaluation helpers, Kaggle-style projects.  
+
+[![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%F0%9F%A7%A0-darkorange?style=for-the-badge&logo=github)](https://github.com/Rekhii/Deep-Learning)  
+> From theory to code: backprop, CNNs, RNNs, and beyond.  
 
 ---
 
-## Let’s Connect
-<p align="center">
-  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="360" alt="Neural brain animation">
-</p>
+## I am open to work, Let’s Connect
 
 📬 Email:**reiki26072gmail.com**
 
