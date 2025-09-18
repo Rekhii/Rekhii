@@ -1,4 +1,7 @@
 
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=150&section=footer&text=Learning%20Every%20Day%20🧠&fontSize=28&fontColor=00c6ff)
+
+
 # 👋 About Me  
 💻 **CSE Student** | 📊 Exploring **Machine Learning, Deep Learning & LLMs**  
 🌱 I code & learn every single day, sharing progress here on GitHub  
