@@ -1,7 +1,4 @@
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=150&section=footer&text=Learning%20Every%20Day%20&fontSize=28&fontColor=00c6ff)
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:808080&height=150&section=footer&text=Learning%20Every%20Day&fontSize=28&fontColor=000000)
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:333333&height=150&section=footer&text=Learning%20Every%20Day&fontSize=28&fontColor=111111)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:808080&height=150&section=footer&text=Learning%20Every%20Day&fontSize=28&fontColor=000000)
 
 
 # 👋 About Me  
