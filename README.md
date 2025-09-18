@@ -1,11 +1,5 @@
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:808080&height=150&section=footer&text=Learning%20Every%20Day&fontSize=28&fontColor=ffffff)
 
-<div style="background-color:#f0f0f0; padding:10px; border-radius:10px;">
-
-  <img align="right" alt="Coding 2" width="300" 
-       src="https://i.gifer.com/E3K6.gif" 
-       style="margin-top:40px;" />
-
 # 👋 About Me  
 
  - **CSE Student** |  Exploring **Machine Learning, Deep Learning & LLMs**  
