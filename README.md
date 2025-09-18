@@ -23,8 +23,7 @@
 
 ---
 
-## 📂 Featured Projects  
-## 📂 Featured Projects  
+## Repositories
 
 
 [![Fine-Tuning LLM](https://img.shields.io/badge/Fine--Tuning%20LLM-%F0%9F%A4%96-blueviolet?style=for-the-badge&logo=github)](https://github.com/Rekhii/Fine-Tuning-LLM)  
@@ -42,10 +41,15 @@
 
 ## Open to Work
 
+---
+
+## 🤝 Open to Work
+
 ![Hire Me](https://img.shields.io/badge/Open%20To-Work-green?style=for-the-badge&logo=github)
 ![Collaboration](https://img.shields.io/badge/Available-For%20Collaboration-blue?style=for-the-badge&logo=handshake)
+![Opportunities](https://img.shields.io/badge/Seeking-Internships%20%7C%20Entry--Level-orange?style=for-the-badge&logo=rocket)
 
-I can help with:  
+I’m open to **internships, collaborations, and entry-level opportunities** in:  
 - 📊 Data preprocessing & ML model building  
 - 🧠 Deep learning experiments (CNNs, RNNs, Transformers)  
 - 🤖 LLM fine-tuning & NLP tasks  
