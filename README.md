@@ -41,7 +41,6 @@
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=footer&text26&fontColor=ffffff)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=150&section=footer&text=Learning%20Every%20Day&fontSize=28&fontColor=000000)
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=150&section=footer&text=Learning%20Every%20Day&fontSize=28&fontColor=808080)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=150&section=footer)
+)
 
