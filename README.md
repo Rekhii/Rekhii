@@ -1,5 +1,9 @@
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:808080&height=150&section=footer&text=Learning%20Every%20Day&fontSize=28&fontColor=ffffff)
-(img align="right" alt="Coding" width="400" src=["https://cdn.dribbble.com/users/116207...](https://www.datasciencecentral.com/wp-content/uploads/2021/10/giphy-4.gif)")
+
+<img align="right" alt="Coding" width="400" src="https://www.datasciencecentral.com/wp-content/uploads/2021/10/giphy-4.gif" />
+
+
+
 # 👋 About Me  
  - **CSE Student** |  Exploring **Machine Learning, Deep Learning & LLMs**  
  - I code & learn every single day, sharing progress here on GitHub  
