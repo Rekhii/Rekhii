@@ -6,10 +6,6 @@
  - My focus: becoming a strong **ML Engineer** through consistent projects  
 
 ---
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="800" alt="Matrix neural animation">
-</p>
-
 ##  What I’m Working On
 -  **Data Every Day** → daily practice with datasets, EDA & ML models  
 -  **Deep Learning** → turning theory into code step by step  
