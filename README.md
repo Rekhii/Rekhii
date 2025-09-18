@@ -1,4 +1,5 @@
-![Welcome](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=180&section=header&text=Hey%20There,%20I'm%20Rekhi%20🌿&fontSize=40&fontAlignY=35)
+![Header](https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=150&section=header&text=Hey%20There,%20I'm%20Rekhi%20🌿&fontSize=40&fontAlignY=35&fontColor=ffffff)
+
 
 # 👋 About Me  
 💻 **CSE Student** | 📊 Exploring **Machine Learning, Deep Learning & LLMs**  
