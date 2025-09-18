@@ -28,10 +28,8 @@
 
 ## Repositories
 
-<div style="background-color:#f0f0f0; padding:10px; border-radius:10px;">
-
-  <img align="right" alt="Coding" width="400"
-       src="https://[media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejV4ODduamo5a3JjbGxzdnFlYmh5ZjQ5ajZka2g2bDNkYnV2OWU4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kYyuzqlmUa60U/giphy.gif](https://i.gifer.com/E3K6.gif)" />
+  <img align="right" alt="Coding 2" width="300"
+       src="https://i.gifer.com/E3K6.gif" />
 
 
 
