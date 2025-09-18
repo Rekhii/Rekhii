@@ -43,4 +43,3 @@
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="300">
 </p>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=150&section=footer&text=Neural%20Networks%20Are%20My%20Canvas%20🧠✨&fontSize=26&fontColor=00c6ff&animation=twinkling)
