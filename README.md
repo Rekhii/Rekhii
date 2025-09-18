@@ -42,4 +42,5 @@
 📬 Email: **reiki26072gmail.com**
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=footer&text26&fontColor=ffffff)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=footer&text=Email%3A%20reiki26072gmail.com&fontSize=22&fontColor=ffffff)
 
