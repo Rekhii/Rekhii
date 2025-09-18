@@ -37,22 +37,17 @@
 
 ---
 
----
-
 ## Open to Work
 
----
 
-## 🤝 Open to Work
 
 ![Hire Me](https://img.shields.io/badge/Open%20To-Work-green?style=for-the-badge&logo=github)
-![Collaboration](https://img.shields.io/badge/Available-For%20Collaboration-blue?style=for-the-badge&logo=handshake)
 ![Opportunities](https://img.shields.io/badge/Seeking-Internships%20%7C%20Entry--Level-orange?style=for-the-badge&logo=rocket)
 
-I’m open to **internships, collaborations, and entry-level opportunities** in:  
-- 📊 Data preprocessing & ML model building  
-- 🧠 Deep learning experiments (CNNs, RNNs, Transformers)  
-- 🤖 LLM fine-tuning & NLP tasks  
+I’m open to **internships and entry-level opportunities** in:  
+-  Data preprocessing & ML model building  
+-  Deep learning experiments (CNNs, RNNs, Transformers)  
+-  LLM fine-tuning & NLP tasks  
 
 📬 Contact: **reiki26072gmail.com**
 
