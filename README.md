@@ -28,11 +28,13 @@
 
 ## Repositories
 
-  <div style="background-color:#f0f0f0; padding:10px; border-radius:10px; display:flex; align-items:center;">
+  </div>
 
-  <div style="flex:1;">
-
-
+  <div style="flex:0; margin-left:20px;">
+    <img alt="Coding 2" width="300"
+         src="https://i.gifer.com/E3K6.gif" />
+  </div>
+</div>
 
 
 [![Fine-Tuning LLM](https://img.shields.io/badge/Fine--Tuning%20LLM-%F0%9F%A4%96-blueviolet?style=for-the-badge&logo=github)](https://github.com/Rekhii/Fine-Tuning-LLM)  
