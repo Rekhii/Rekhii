@@ -1,7 +1,7 @@
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:808080&height=150&section=footer&text=Learning%20Every%20Day&fontSize=28&fontColor=ffffff)
 
 # 👋 About Me  
- - **CSE Student** | 📊 Exploring **Machine Learning, Deep Learning & LLMs**  
+ - **CSE Student** |  Exploring **Machine Learning, Deep Learning & LLMs**  
  - I code & learn every single day, sharing progress here on GitHub  
  - My focus: becoming a strong **ML Engineer** through consistent projects  
 
@@ -23,7 +23,7 @@
 
 ---
 
-## 📂 Featured Projects
+## Repos
 - [**Fine-Tuning LLM**](https://github.com/Rekhii/Fine-Tuning-LLM)  
 - [**Machine Learning**](https://github.com/Rekhii/Machine-Learning)  
 - [**Deep Learning**](https://github.com/Rekhii/Deep-Learning)  
