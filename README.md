@@ -28,6 +28,10 @@
 
 ## Repositories
 
+<div style="background-color:#f0f0f0; padding:10px; border-radius:10px;">
+
+  <img align="right" alt="Coding" width="400"
+       src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejV4ODduamo5a3JjbGxzdnFlYmh5ZjQ5ajZka2g2bDNkYnV2OWU4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kYyuzqlmUa60U/giphy.gif" />
 
 [![Fine-Tuning LLM](https://img.shields.io/badge/Fine--Tuning%20LLM-%F0%9F%A4%96-blueviolet?style=for-the-badge&logo=github)](https://github.com/Rekhii/Fine-Tuning-LLM)  
 
@@ -42,12 +46,6 @@
 
 ## Open to Work
 
-<div style="background-color:#f0f0f0; padding:10px; border-radius:10px;">
-
-  <img align="right" alt="Coding" width="400"
-       src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejV4ODduamo5a3JjbGxzdnFlYmh5ZjQ5ajZka2g2bDNkYnV2OWU4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kYyuzqlmUa60U/giphy.gif" />
-
-       
 ![Hire Me](https://img.shields.io/badge/Open%20To-Work-green?style=for-the-badge&logo=github)
 ![Opportunities](https://img.shields.io/badge/Seeking-Internships%20%7C%20Entry--Level-orange?style=for-the-badge&logo=rocket)
 
