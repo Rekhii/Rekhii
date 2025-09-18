@@ -4,10 +4,6 @@
 
 # 👋 About Me  
 
-<p align="left">
-  <img align="right" alt="Coding" width="400" 
-       src="https://www.datasciencecentral.com/wp-content/uploads/2021/10/giphy-4.gif" />
-
  - **CSE Student** |  Exploring **Machine Learning, Deep Learning & LLMs**  
  - I code & learn every single day, sharing progress here on GitHub  
  - My focus: becoming a strong **ML Engineer** through consistent projects  
@@ -47,6 +43,9 @@
 ## Open to Work
 
 
+<p align="left">
+  <img align="right" alt="Coding" width="400" 
+       src="https://www.datasciencecentral.com/wp-content/uploads/2021/10/giphy-4.gif" />
 
 ![Hire Me](https://img.shields.io/badge/Open%20To-Work-green?style=for-the-badge&logo=github)
 ![Opportunities](https://img.shields.io/badge/Seeking-Internships%20%7C%20Entry--Level-orange?style=for-the-badge&logo=rocket)
