@@ -28,9 +28,9 @@
 
 ## Repositories
 
-  <img align="middle" alt="Coding 2" width="300"
-       src="https://i.gifer.com/E3K6.gif" />
+  <div style="background-color:#f0f0f0; padding:10px; border-radius:10px; display:flex; align-items:center;">
 
+  <div style="flex:1;">
 
 
 
