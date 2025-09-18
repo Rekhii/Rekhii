@@ -24,6 +24,13 @@
 ---
 
 ## 📂 Featured Projects  
+## 📂 Featured Projects  
+
+| Project | Description | Link |
+|---------|-------------|------|
+| 🤖 Fine-Tuning LLM | Weekend experiments with BERT, GPT-style, LoRA/QLoRA | [Repo](https://github.com/Rekhii/Fine-Tuning-LLM) |
+| 📊 Machine Learning | Classical ML models, EDA, and Kaggle projects | [Repo](https://github.com/Rekhii/Machine-Learning) |
+| 🧠 Deep Learning | Turning DL theory into practical code (backprop, CNNs, RNNs) | [Repo](https://github.com/Rekhii/Deep-Learning) |
 
 [![Fine-Tuning LLM](https://img.shields.io/badge/Fine--Tuning%20LLM-%F0%9F%A4%96-blueviolet?style=for-the-badge&logo=github)](https://github.com/Rekhii/Fine-Tuning-LLM)  
 > Weekend experiments with transformer models (BERT, GPT-style, QLoRA).  
