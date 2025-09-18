@@ -43,3 +43,22 @@
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="300">
 </p>
 
+<!-- Futuristic neural brain (subtle, professional) -->
+<p align="center">
+  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="360" alt="Neural brain animation">
+</p>
+
+<!-- Neural connections / synapses -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="360" alt="Neural connections">
+</p>
+
+<!-- Particles forming networks (good NN vibe) -->
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="360" alt="Network particles">
+</p>
+
+<!-- Matrix/activation aesthetics (techy feel) -->
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="360" alt="Matrix code flow">
+</p>
