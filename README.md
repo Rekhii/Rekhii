@@ -37,9 +37,8 @@
   <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="360" alt="Neural brain animation">
 </p>
 
-📬 Email:                                                                                         **reiki26072gmail.com**
+📬 Email:**reiki26072gmail.com**
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=footer&text26&fontColor=ffffff)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=150&section=footer)
 )
