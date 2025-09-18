@@ -1,4 +1,3 @@
-![Header](https://capsule-render.vercel.app/api?type=rounded&color=0:74ebd5,100:ACB6E5&height=180&section=header&text=Hey%20There,%20I'm%20Rekhi%20🌿&fontSize=40&fontAlignY=35&fontColor=ffffff)
 
 # 👋 About Me  
 💻 **CSE Student** | 📊 Exploring **Machine Learning, Deep Learning & LLMs**  
