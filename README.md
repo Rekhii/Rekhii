@@ -51,7 +51,7 @@ I’m open to **internships and entry-level opportunities** in:
 -  Deep learning experiments (CNNs, RNNs, Transformers)  
 -  LLM fine-tuning & NLP tasks  
 
-📬 Contact: **reiki26072gmail.com**
+📬 Contact: **reiki2607gmail.com**
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=150&section=footer)
