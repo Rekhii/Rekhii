@@ -2,7 +2,7 @@
 
 # 👋 About Me  
 
- - **CSE Student** |  Exploring **Machine Learning, Deep Learning & LLMs**  
+ - Exploring **Machine Learning, Deep Learning & LLMs**  
  - I code & learn every single day, sharing progress here on GitHub  
  - My focus: becoming a strong **AI Engineer** through consistent projects  
 
