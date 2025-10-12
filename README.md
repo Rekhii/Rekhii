@@ -8,9 +8,11 @@
 
 ---
 ##  What I’m Working On
--  **Data Every Day** → daily practice with datasets and ML models  
--  **Deep Learning** → turning theory into code step by step  
--  **Fine-Tuning LLMs** → weekend experiments with BERT, GPT-style models  
+- **🧠 Data Every Day** → Daily practice with real-world datasets and ML models — improving skills in data preprocessing, feature engineering, and evaluation.  
+- **💡 Deep Learning from Scratch** → Building neural networks layer by layer, visualizing gradients, and understanding how theory translates into working architectures.  
+- **🤖 Fine-Tuning & Custom LLMs** → Weekend experiments with **BERT**, **GPT-style**, and **LoRA-based** models to explore transfer learning and optimization.  
+- **🔁 Self-Improving Projects** → Tracking experiments, comparing results, and refining pipelines to build more consistent, reproducible, and scalable AI workflows.  
+
 
 ---
 
