@@ -9,14 +9,14 @@
 ---
 ##  What I’m Working On
 - **Data Every Day** - Daily practice with real-world datasets and ML models — improving skills in data preprocessing, feature engineering, and evaluation.Working on **training and evaluating ML, DL, and      Transformer-based models, focusing on improving data preprocessing, feature selection, and model generalization.
-- 
--  ** Machine Learning from Scratch** — Re-deriving every core ML algorithm (Linear Regression, Logistic Regression, SVM, KNN, Trees, etc.)  
+  
+-  **Machine Learning from Scratch** — Re-deriving every core ML algorithm (Linear Regression, Logistic Regression, SVM, KNN, Trees, etc.)  
   Implementing step-by-step using only **NumPy**, focusing on mathematical clarity, convergence, and visualization.  
 
 - **Deep Learning from Scratch** - Building neural networks layer by layer, visualizing gradients, and understanding how theory translates into working architectures.
-- 
+  
 - **Fine-Tuning and Custom LLMs** - Weekend experiments with **BERT**, **GPT-style**, and **LoRA-based** models to explore transfer learning and optimization.
-- 
+ 
 - **Self-Improving Projects** - Tracking experiments, comparing results, and refining pipelines to build more consistent, reproducible, and scalable AI workflows.  
 
 
