@@ -17,7 +17,7 @@
   
 - **Fine-Tuning and Custom LLMs** - Weekend experiments with **BERT**, **GPT-style**, and **LoRA-based** models to explore transfer learning and optimization.
  
-- **Self-Improving Projects** - Tracking experiments, comparing results, and refining pipelines to build more consistent, reproducible, and scalable AI workflows.  
+- **Self-Rewriting  AI** - Tracking experiments, comparing results, and refining pipelines to build more consistent, reproducible, and scalable AI workflows.  
 
 
 ---
