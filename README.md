@@ -54,12 +54,6 @@
 ![JAX](https://img.shields.io/badge/JAX-005C84?style=for-the-badge&logo=google&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-1D63ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### **AGI / Research / Cognitive Architectures**
-![OpenCog](https://img.shields.io/badge/OpenCog-1D1D1D?style=for-the-badge&logoColor=white)
-![Hyperon](https://img.shields.io/badge/Hyperon-%2300A3FF?style=for-the-badge)
-![MeTTa](https://img.shields.io/badge/MeTTa-Lisp--like-blue?style=for-the-badge)
-![Graph Neural Nets](https://img.shields.io/badge/GNNs-2E7D32?style=for-the-badge)
-![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-6A1B9A?style=for-the-badge)
 
 ---
 
