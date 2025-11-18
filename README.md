@@ -23,12 +23,43 @@
 ---
 
 ##  Tech I Use
+## 🛠️ Tech I Use  
+
+### **Core Programming**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### **Machine Learning**
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-004D40?style=for-the-badge&logo=xgboost&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-00C58E?style=for-the-badge&logo=lightgbm&logoColor=white)
+![CatBoost](https://img.shields.io/badge/CatBoost-FF6F00?style=for-the-badge&logoColor=white)
+
+### **Deep Learning**
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FFD43B?style=for-the-badge&logo=huggingface&logoColor=black)
-![OpenAI / ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+
+### **Large Language Models**
+![Transformers](https://img.shields.io/badge/HuggingFace_Transformers-FFD43B?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-0A0A0A?style=for-the-badge&logo=chainlink&logoColor=white)
+![LoRA](https://img.shields.io/badge/LoRA-FCC624?style=for-the-badge&logoColor=black)
+
+### **Experimentation & Tools**
+![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![WandB](https://img.shields.io/badge/Weights_%26_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=white)
+![JAX](https://img.shields.io/badge/JAX-005C84?style=for-the-badge&logo=google&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1D63ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### **AGI / Research / Cognitive Architectures**
+![OpenCog](https://img.shields.io/badge/OpenCog-1D1D1D?style=for-the-badge&logoColor=white)
+![Hyperon](https://img.shields.io/badge/Hyperon-%2300A3FF?style=for-the-badge)
+![MeTTa](https://img.shields.io/badge/MeTTa-Lisp--like-blue?style=for-the-badge)
+![Graph Neural Nets](https://img.shields.io/badge/GNNs-2E7D32?style=for-the-badge)
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-6A1B9A?style=for-the-badge)
 
 ---
 
