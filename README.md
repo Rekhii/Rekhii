@@ -49,7 +49,6 @@
 ### **Experimentation & Tools**
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle)
-![Weights & Biases](https://img.shields.io/badge/WandB-FFBE00?style=for-the-badge&logo=weightsandbiases)
 ![JAX](https://img.shields.io/badge/JAX-005C84?style=for-the-badge&logo=google)
 
 
