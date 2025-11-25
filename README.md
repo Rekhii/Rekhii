@@ -51,7 +51,7 @@
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle)
 ![Weights & Biases](https://img.shields.io/badge/WandB-FFBE00?style=for-the-badge&logo=weightsandbiases)
 ![JAX](https://img.shields.io/badge/JAX-005C84?style=for-the-badge&logo=google)
-![Docker](https://img.shields.io/badge/Docker-1D63ED?style=for-the-badge&logo=docker)
+
 
 
 ---
