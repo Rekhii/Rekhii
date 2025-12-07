@@ -62,7 +62,7 @@ I code and learn every single day. My work focuses on understanding ML/DL from f
 
 Available for **internships**, **entry-level roles**, Researcher  and **collaborations** in:
 
-AI |ML | DL Engineer
+AI | ML | DL Engineer
 
 ---
 
