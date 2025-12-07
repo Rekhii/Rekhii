@@ -43,9 +43,7 @@ I code and learn every single day. My work focuses on understanding ML/DL from f
 
 ### GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rekhii&show_icons=true&hide_border=true&theme=graywhite" height="160"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rekhii&hide_border=true&theme=graywhite" height="160"/>
