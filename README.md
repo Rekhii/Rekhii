@@ -1,14 +1,11 @@
 <h1 align="center">Rekhi</h1>
 
-<p align="center">
- 
-</p>
 
 <p align="center">
   <a href="https://kaggle.com/seki32"><img src="https://img.shields.io/badge/Kaggle-seki32-20BEFF?style=flat&logo=kaggle&logoColor=white"/></a>&nbsp;
   <a href="https://github.com/Rekhii"><img src="https://img.shields.io/badge/GitHub-Rekhii-181717?style=flat&logo=github&logoColor=white"/></a>&nbsp;
   <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>&nbsp;
-  <a href="mailto:rekhi2607@gmail.com"><img src="https://img.shields.io/badge/Email-reiki2607@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:rekhi2607@gmail.com"><img src="https://img.shields.io/badge/Email-rekhi2607@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
@@ -26,6 +23,8 @@ I code and learn every single day. My work focuses on understanding ML/DL from f
 | Repository | Description | Status |
 |:-----------|:------------|:------:|
 | [**Data Every Day**](https://github.com/Rekhii/Data-Every-Day) | Daily practice — ML models (weekdays), LLM fine-tuning (weekends) | `ongoing` |
+| [**Machine Learning Theory**](https://github.com/Rekhii/Machine-Learning-Theory) | Turning theory into code — ML algorithms from first principles | `ongoing` |
+| [**Deep Learning Theory**](https://github.com/Rekhii/Deep-Learning-Theory) | Turning theory into code — neural networks from first principles | `ongoing` |
 | [**Machine Learning**](https://github.com/Rekhii/Machine-Learning) | Core algorithms implemented in pure NumPy with math derivations | `ongoing` |
 | [**Deep Learning**](https://github.com/Rekhii/Deep-Learning) | Neural networks from scratch — backprop, gradient flow | `ongoing` |
 | [**Fine-Tuning LLM**](https://github.com/Rekhii/Fine-Tuning-LLM) | BERT, GPT, Qwen with LoRA/QLoRA | `ongoing` |
@@ -60,10 +59,6 @@ I code and learn every single day. My work focuses on understanding ML/DL from f
 
 ### Open to Work
 
-Available for **internships**, **entry-level roles**, Researcher  and **collaborations** in:
+Available for **internships**, **entry-level roles**, **research positions**, and **collaborations** in:
 
-AI | ML | DL Engineer
-
----
-
-
+AI | ML | DL Engineering
