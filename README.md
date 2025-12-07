@@ -1,7 +1,7 @@
 <h1 align="center">Rekhi</h1>
 
 <p align="center">
-  <em>Data Scientist — Machine Learning & Neural Systems</em>
+ 
 </p>
 
 <p align="center">
@@ -60,12 +60,10 @@ I code and learn every single day. My work focuses on understanding ML/DL from f
 
 ### Open to Work
 
-Available for **internships**, **entry-level roles**, and **collaborations** in:
+Available for **internships**, **entry-level roles**, Researcher  and **collaborations** in:
 
-Machine Learning Engineering • Data Science • NLP & LLMs
+AI |ML | DL Engineer
 
 ---
 
-<p align="center">
-  <sub><em>"The goal is not to build machines that think like humans, but to understand thinking itself."</em></sub>
-</p>
+
