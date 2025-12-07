@@ -1,57 +1,94 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=180&section=header&text=Rekhi&fontSize=70&fontColor=58a6ff&fontAlignY=35&desc=Data%20Scientist%20•%20ML%20Practitioner&descSize=18&descAlignY=55&animation=fadeIn"/>
+<h1 align="center">Rekhi</h1>
 
 <p align="center">
-  <a href="https://kaggle.com/seki32"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/></a>&nbsp;
-  <a href="https://github.com/Rekhii"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>&nbsp;
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
-  <a href="mailto:rekhi2607@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <em>Independent Researcher — Machine Learning & Cognitive Systems</em>
+</p>
+
+<p align="center">
+  <a href="https://kaggle.com/seki32"><img src="https://img.shields.io/badge/Kaggle-seki32-20BEFF?style=flat&logo=kaggle&logoColor=white"/></a>&nbsp;
+  <a href="https://github.com/Rekhii"><img src="https://img.shields.io/badge/GitHub-Rekhii-181717?style=flat&logo=github&logoColor=white"/></a>&nbsp;
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>&nbsp;
+  <a href="mailto:rekhi2607@gmail.com"><img src="https://img.shields.io/badge/Email-rekhi2607@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-```python
-class Rekhi:
-    def __init__(self):
-        self.focus = ["ML/DL Fundamentals", "LLM Fine-tuning"]
-        self.daily_practice = True
-        self.goal = "Building systems that approach genuine machine intelligence"
-    
-    def current_stack(self):
-        return {
-            "core": ["Python", "NumPy", "Pandas", "scikit-learn"],
-            "deep_learning": ["PyTorch", "Transformers"],
-            "llm": ["LoRA", "QLoRA", "PEFT", "TRL"]
-        }
+### Abstract
+
+I am a data scientist and machine learning practitioner focused on understanding intelligence — both artificial and biological. My research interests span foundational ML algorithms, neural network architectures, and large language model optimization. I maintain a daily experimental practice, treating each dataset as a hypothesis to test and each model as a theory to validate.
+
+**Long-term objective:** Engineering systems capable of genuine machine consciousness.
+
+---
+
+### Research Areas
+
+```
+┌─────────────────────────────────────────────────────────────────────────────────┐
+│                                                                                 │
+│   FOUNDATIONS                    ARCHITECTURES                 OPTIMIZATION    │
+│   ────────────                   ─────────────                 ────────────    │
+│                                                                                 │
+│   • Statistical Learning         • Feedforward Networks        • LoRA / QLoRA  │
+│   • Gradient Methods             • Convolutional Nets          • PEFT          │
+│   • Regularization Theory        • Recurrent Systems           • TRL           │
+│   • Loss Landscapes              • Attention Mechanisms        • Fine-tuning   │
+│                                                                                 │
+│   ─────────────────────────────────────────────────────────────────────────────│
+│                                                                                 │
+│   CURRENT STUDY: Cognitive Architectures for Consciousness                     │
+│   • Integrated Information Theory (IIT) — φ measure                            │
+│   • LIDA, ACT-R, SOAR frameworks                                               │
+│   • Goertzel's AGI Engineering (Parts I & II)                                  │
+│                                                                                 │
+└─────────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-### Projects
+### Active Projects
 
-| | |
-|:---:|:---:|
-| **[Data Every Day](https://github.com/Rekhii/Data-Every-Day)** | **[ML from Scratch](https://github.com/Rekhii/Machine-Learning)** |
-| Daily practice — ML on weekdays, LLM fine-tuning on weekends | Core algorithms in pure NumPy with math derivations |
-| **[Deep Learning](https://github.com/Rekhii/Deep-Learning)** | **[LLM Fine-Tuning](https://github.com/Rekhii/Fine-Tuning-LLM)** |
-| Neural nets from scratch — backprop, gradients, architectures | BERT, GPT, Qwen with LoRA/QLoRA |
-
----
-
-### Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rekhii&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide_title=true&hide_rank=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rekhii&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" height="150"/>
-</p>
+| Repository | Description | Status |
+|:-----------|:------------|:------:|
+| [**Data Every Day**](https://github.com/Rekhii/Data-Every-Day) | Daily experimental practice — ML models (weekdays), LLM fine-tuning (weekends) | `ongoing` |
+| [**Machine Learning**](https://github.com/Rekhii/Machine-Learning) | First-principles implementations in NumPy — derivations, convergence analysis | `ongoing` |
+| [**Deep Learning**](https://github.com/Rekhii/Deep-Learning) | Neural architectures from scratch — backpropagation, gradient flow, visualization | `ongoing` |
+| [**Fine-Tuning LLM**](https://github.com/Rekhii/Fine-Tuning-LLM) | Transfer learning experiments — BERT, GPT, Qwen with parameter-efficient methods | `ongoing` |
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Open_to-Internships_&_Entry--Level_Roles-58a6ff?style=flat-square&labelColor=0d1117"/>
-</p>
+### Methods & Tools
+
+| Category | Technologies |
+|:---------|:-------------|
+| **Languages** | Python, NumPy, Pandas |
+| **Classical ML** | scikit-learn, XGBoost, LightGBM |
+| **Deep Learning** | PyTorch, TensorFlow |
+| **LLM Stack** | Hugging Face Transformers, PEFT, TRL, LoRA, QLoRA |
+| **Experimentation** | Kaggle, Google Colab, Weights & Biases |
+
+---
+
+### Metrics
 
 <p align="center">
-  <sub>ML Engineering • Data Science • NLP & LLMs</sub>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rekhii&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&icon_color=000000&text_color=333333&hide_title=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rekhii&theme=default&hide_border=true&background=ffffff&ring=000000&fire=ff6b6b&currStreakLabel=000000" height="150"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=footer"/>
+---
+
+### Availability
+
+Open to **research collaborations**, **internships**, and **entry-level positions** in:
+
+- Machine Learning Engineering  
+- Data Science  
+- NLP & Large Language Models  
+- Cognitive Systems Research
+
+---
+
+<p align="center">
+  <sub><em>"The goal is not to build machines that think like humans, but to understand thinking itself."</em></sub>
+</p>
