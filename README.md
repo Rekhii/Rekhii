@@ -1,7 +1,7 @@
 <h1 align="center">Rekhi</h1>
 
 <p align="center">
-  <em>Independent Researcher — Machine Learning & Cognitive Systems</em>
+  <em>Data Scientist — Machine Learning & Neural Systems</em>
 </p>
 
 <p align="center">
@@ -13,79 +13,56 @@
 
 ---
 
-### Abstract
+### About
 
-I am a data scientist and machine learning practitioner focused on understanding intelligence — both artificial and biological. My research interests span foundational ML algorithms, neural network architectures, and large language model optimization. I maintain a daily experimental practice, treating each dataset as a hypothesis to test and each model as a theory to validate.
+I code and learn every single day. My work focuses on understanding ML/DL from first principles and applying modern techniques like LLM fine-tuning.
 
-**Long-term objective:** Engineering systems capable of genuine machine consciousness.
-
----
-
-### Research Areas
-
-```
-┌─────────────────────────────────────────────────────────────────────────────────┐
-│                                                                                 │
-│   FOUNDATIONS                    ARCHITECTURES                 OPTIMIZATION    │
-│   ────────────                   ─────────────                 ────────────    │
-│                                                                                 │
-│   • Statistical Learning         • Feedforward Networks        • LoRA / QLoRA  │
-│   • Gradient Methods             • Convolutional Nets          • PEFT          │
-│   • Regularization Theory        • Recurrent Systems           • TRL           │
-│   • Loss Landscapes              • Attention Mechanisms        • Fine-tuning   │
-│                                                                                 │
-│   ─────────────────────────────────────────────────────────────────────────────│
-│                                                                                 │
-│   CURRENT STUDY: Cognitive Architectures for Consciousness                     │
-│   • Integrated Information Theory (IIT) — φ measure                            │
-│   • LIDA, ACT-R, SOAR frameworks                                               │
-│   • Goertzel's AGI Engineering (Parts I & II)                                  │
-│                                                                                 │
-└─────────────────────────────────────────────────────────────────────────────────┘
-```
+**Long-term goal:** Building systems capable of genuine machine intelligence.
 
 ---
 
-### Active Projects
+### Projects
 
 | Repository | Description | Status |
 |:-----------|:------------|:------:|
-| [**Data Every Day**](https://github.com/Rekhii/Data-Every-Day) | Daily experimental practice — ML models (weekdays), LLM fine-tuning (weekends) | `ongoing` |
-| [**Machine Learning**](https://github.com/Rekhii/Machine-Learning) | First-principles implementations in NumPy — derivations, convergence analysis | `ongoing` |
-| [**Deep Learning**](https://github.com/Rekhii/Deep-Learning) | Neural architectures from scratch — backpropagation, gradient flow, visualization | `ongoing` |
-| [**Fine-Tuning LLM**](https://github.com/Rekhii/Fine-Tuning-LLM) | Transfer learning experiments — BERT, GPT, Qwen with parameter-efficient methods | `ongoing` |
+| [**Data Every Day**](https://github.com/Rekhii/Data-Every-Day) | Daily practice — ML models (weekdays), LLM fine-tuning (weekends) | `ongoing` |
+| [**Machine Learning**](https://github.com/Rekhii/Machine-Learning) | Core algorithms implemented in pure NumPy with math derivations | `ongoing` |
+| [**Deep Learning**](https://github.com/Rekhii/Deep-Learning) | Neural networks from scratch — backprop, gradient flow | `ongoing` |
+| [**Fine-Tuning LLM**](https://github.com/Rekhii/Fine-Tuning-LLM) | BERT, GPT, Qwen with LoRA/QLoRA | `ongoing` |
 
 ---
 
-### Methods & Tools
+### Tools
 
 | Category | Technologies |
 |:---------|:-------------|
-| **Languages** | Python, NumPy, Pandas |
-| **Classical ML** | scikit-learn, XGBoost, LightGBM |
+| **Core** | Python, NumPy, Pandas, scikit-learn |
 | **Deep Learning** | PyTorch, TensorFlow |
-| **LLM Stack** | Hugging Face Transformers, PEFT, TRL, LoRA, QLoRA |
-| **Experimentation** | Kaggle, Google Colab, Weights & Biases |
+| **LLMs** | Hugging Face, PEFT, TRL, LoRA, QLoRA |
 
 ---
 
-### Metrics
+### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rekhii&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&icon_color=000000&text_color=333333&hide_title=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rekhii&theme=default&hide_border=true&background=ffffff&ring=000000&fire=ff6b6b&currStreakLabel=000000" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rekhii&show_icons=true&hide_border=true&theme=graywhite" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rekhii&hide_border=true&theme=graywhite" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rekhii&bg_color=ffffff&color=000000&line=000000&point=ff0000&area=true&hide_border=true" height="200"/>
 </p>
 
 ---
 
-### Availability
+### Open to Work
 
-Open to **research collaborations**, **internships**, and **entry-level positions** in:
+Available for **internships**, **entry-level roles**, and **collaborations** in:
 
-- Machine Learning Engineering  
-- Data Science  
-- NLP & Large Language Models  
-- Cognitive Systems Research
+Machine Learning Engineering • Data Science • NLP & LLMs
 
 ---
 
