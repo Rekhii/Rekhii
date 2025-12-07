@@ -12,9 +12,10 @@
 
 ### About
 
-I code and learn every single day. My work focuses on understanding ML/DL from first principles and applying modern techniques like LLM fine-tuning.
-
-**Long-term goal:** Building systems capable of genuine machine intelligence.
+I code and learn every single day — no exceptions.
+My approach: understand ML/DL from first principles before using frameworks. I derive the math, implement from scratch in NumPy, then scale with PyTorch. Theory without code is incomplete; code without theory is fragile.
+Currently exploring LLM fine-tuning (LoRA, QLoRA, PEFT) on weekends while maintaining daily practice on classical ML and deep learning fundamentals.
+I treat every dataset as an experiment and every model as a hypothesis to test. Consistency over intensity — small daily progress compounds.
 
 ---
 
