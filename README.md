@@ -3,9 +3,9 @@
 
 <p align="center">
   <a href="https://kaggle.com/seki32"><img src="https://img.shields.io/badge/Kaggle-seki32-20BEFF?style=flat&logo=kaggle&logoColor=white"/></a>&nbsp;
-  <a href="https://github.com/Reiki"><img src="https://img.shields.io/badge/GitHub-Rekhii-181717?style=flat&logo=github&logoColor=white"/></a>&nbsp;
+  <a href="https://github.com/Rekhii"><img src="https://img.shields.io/badge/GitHub-Rekhii-181717?style=flat&logo=github&logoColor=white"/></a>&nbsp;
   <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>&nbsp;
-  <a href="mailto:rekhi2607@gmail.com"><img src="https://img.shields.io/badge/Email-rekhi2607@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:reiki2607@gmail.com"><img src="https://img.shields.io/badge/Email-rekhi2607@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
