@@ -1,1 +1,5 @@
-I’m Rekhi, an AI scientist specializing in machine learning, deep learning, and artificial intelligence. My work focuses on developing intelligent models, optimizing learning algorithms, and exploring new approaches to data-driven problem-solving. I’m passionate about building systems that learn efficiently, adapt intelligently, and deliver real-world impact through research and innovation.
+👋 Hi, I'm Rekhi
+
+I'm passionate about artificial intelligence, machine learning, and deep learning.
+I enjoy exploring intelligent systems, building learning models, and experimenting with data-driven approaches to solve real-world problems.
+Always learning, improving, and creating — one model at a time.
