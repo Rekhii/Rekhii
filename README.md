@@ -8,4 +8,4 @@ I enjoy turning ideas into working models — from concept to implementation —
 
 enhancing training efficiency, or exploring emerging trends in the AI ecosystem, I’m always driven by curiosity and innovation.
 
-📫 Reach me at: reiki2607@gmail.com
+ Reach me at: reiki2607@gmail.com
