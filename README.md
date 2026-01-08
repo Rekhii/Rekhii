@@ -1,7 +1,7 @@
 👋 Hi, I'm Rekhi
 
 I'm deeply interested in artificial intelligence, machine learning, and deep learning, and I love exploring how intelligent systems can learn, adapt,
-and make sense of complex data. 
+and make sense of complex data.
 
 My work revolves around experimenting with different neural network architectures, optimizing models,
 and understanding how data can be used to build smarter, more efficient systems.
