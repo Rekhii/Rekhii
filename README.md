@@ -9,4 +9,3 @@ I enjoy turning ideas into working models from concept to implementation and con
 
 I am open to collaboration and welcome opportunities to connect
 
-Email: reiki2607@gmail.com
